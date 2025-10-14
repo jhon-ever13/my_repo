@@ -1,15 +1,14 @@
 <h1 align="center">👋 ¡Hola, soy Jhon Ever!</h1>
-<h3 align="center">💻 Estudiante de Informática | Desarrollador en formación</h3>
+<h3 align="center">💻 Estudiante de Ingeniería de Sistemas | Desarrollador en formación</h3>
 
 ---
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajando en **proyectos de Java y Git**  
-- 🌱 Aprendiendo **Git/GitHub, DevOps básico y desarrollo en Java**  
+- 🌱 Aprendiendo **Git/GitHub, DevOps, Desarrollo en Java, SO**  
 - 💬 Pregúntame sobre **Java, POO y buenas prácticas de código**  
 - 📫 Cómo contactarme: **jhoneverespinoza@gmail.com**  
-- 💼 LinkedIn: [Mi perfil profesional](https://www.linkedin.com/)  
-<!-- Reemplaza con tu URL real -->
+- 💼 LinkedIn: [Mi perfil profesional](www.linkedin.com/in/jhon-e-espinoza-nuñez-315418376)  
 
 ---
 
