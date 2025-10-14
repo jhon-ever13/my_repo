@@ -16,8 +16,8 @@
 ### 🧩 Proyectos Destacados
 | 🧠 **Nombre** | 💡 **Descripción** | 🔗 **Repositorio** |
 |---------------|--------------------|--------------------|
-| 🌐 **Proyecto CV** | Sitio web tipo portafolio personal | [Ver repo](https://github.com/jhon-ever13/portafolio-cv) |
-| ⚙️ **Proyecto B** | Breve descripción del segundo proyecto | [Ver repo](https://github.com/jhon-ever13/tu-repo-b) |
+| 🌐 **Portafolio** | Sitio web tipo portafolio personal | [Ver repo](https://github.com/jhon-ever13/portafolio-cv) |
+| ⚙️ **Proyecto CV**| Donde tu CV bien por tiii!!! | [Ver repo](https://github.com/jhon-ever13/portafolio-cv) |
 
 ---
 
