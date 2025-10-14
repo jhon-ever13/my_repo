@@ -20,6 +20,20 @@
 | ⚙️ **Proyecto CV**| Donde tu CV bien por tiii!!! | [Ver repo](https://github.com/jhon-ever13/portafolio-cv) |
 
 ---
+### 📬 Contactos
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-perfil-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jhon-ever13" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="center">
@@ -34,6 +48,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+
+---
+### 👁️ Contador de vistas
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhon-ever13&label=Profile%20views&color=0e75b6&style=flat-square" alt="Contador de visitas" />
+</p>
 
 ---
 
