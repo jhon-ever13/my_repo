@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/html-181717?logo=github&logoColor=white" />
   <!-- agrega más si usas: HTML, CSS, JS, etc. -->
 </p>
 
