@@ -14,7 +14,7 @@
 ## 🚀 Proyectos destacados
 | **Nombre** | **Descripción** | **Repositorio** |
 |-----------|------------------|-----------------|
-| Proyecto A | Breve descripción | [Ver repo](https://github.com/jhon-ever13/tu-repo-a) |
+| Proyecto CV | Breve descripción | [Ver repo](https://github.com/jhon-ever13/portafolio-cv) |
 | Proyecto B | Breve descripción | [Ver repo](https://github.com/jhon-ever13/tu-repo-b) |
 
 ---
